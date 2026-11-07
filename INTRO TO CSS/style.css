@@ -1,0 +1,22 @@
+*{
+    /* Universal selector */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h4{
+    color: blue;
+}
+h3{
+    color: rebeccapurple;
+    }
+.css-class{
+    color:orange ;
+    font-size: 40px;
+    background-color: black;
+}
+
+#main{
+    background-color: blue;
+}
